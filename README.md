@@ -23,7 +23,7 @@
 <br />
 <p align="center">
 <a href="https://github.com/mpbmpb/workflow">
-   <img src="/gitAssets/planet.jpg" height="320" width="505">
+   <img src="/gitAssets/workstation.jpg" height="320" width="505">
 </a>
 
   <h1 align="center">Workflow</h1>
@@ -52,7 +52,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
   * [Specifications](#specifications)
-* [What I learned from this project](#what-i-learned)
+* [What I learned from this project](#what-i-learned-from-this-project)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
