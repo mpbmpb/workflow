@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace workflow
+﻿namespace workflow
 {
     class Program
     {

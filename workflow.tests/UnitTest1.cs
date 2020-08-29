@@ -44,11 +44,12 @@ namespace workflow.tests
             var work = new Workflow();
             work.Add(new SplineReticulator(param1));
             work.Add(new VirtualAudioMode(param2));
+            work.Add(new VirtualAudioSystem());
 
             var result = await GetOutputFor(WorkflowEngine.Run, work);
 
             result.Should().ContainAll($"using {param1} covariant basis",
-                $"Virtual audio system succesfully set to {param2} mode");
+                $"Virtual audio system succesfully set to {param2} mode", "Virtual audio system is running.");
         }
 
         [Fact]

@@ -35,7 +35,7 @@ namespace workflow
             Console.WriteLine();
             foreach (var task in _taskList)
             {
-                Console.WriteLine(task.ToString() + ";");
+                Console.WriteLine(task + ";");
             }
             Console.WriteLine("---------------------------");
             Console.WriteLine($"Total: {_taskList.Count} tasks");

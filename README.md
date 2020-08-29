@@ -112,7 +112,7 @@ For the purpose of this exercise, do not worry about these complexities. Simply 
 
 
 ## What I learned from this project
-How to use interfaces to create loosely coupled applications with polymorphic behaviour.
+How to use interfaces to create loosely coupled systems with polymorphic behaviour.
 
 <!-- GETTING STARTED -->
 ## Getting Started
