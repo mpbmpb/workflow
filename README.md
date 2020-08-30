@@ -209,7 +209,7 @@ Project Link: [https://github.com/mpbmpb/workflow](https://github.com/mpbmpb/wor
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [coverage-shield]: https://img.shields.io/badge/coverage-100%25-brightgreen?style=plastic
 [tests-shield]: https://img.shields.io/badge/tests-passing-brightgreen?style=plastic
-[contributors-shield]: https://img.shields.io/github/contributors/mpbmpb/workflow?color=blue?style=plastic
+[contributors-shield]: https://img.shields.io/github/contributors/mpbmpb/workflow?color=blue&style=plastic
 [contributors-url]: https://github.com/mpbmpb/workflow/graphs/contributors
 [codesize-shield]: https://img.shields.io/github/languages/code-size/mpbmpb/workflow?style=plastic
 [stars-shield]: https://img.shields.io/github/stars/mpbmpb/workflow?style=plastic
